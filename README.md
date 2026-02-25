@@ -31,6 +31,7 @@ This project adheres to modern Software Engineering principles, specifically foc
 
 
 🚀 Local Deployment Guide
+
   1-Clone the Repository: git clone https://github.com/Hadishof/ai-career-pilot.git and navigate into the directory.
 
   2-Configure Environment: Create a .env file in the root directory and add GOOGLE_API_KEY=your_api_key_here.

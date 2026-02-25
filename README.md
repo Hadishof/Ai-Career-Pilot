@@ -19,6 +19,7 @@ This project adheres to modern Software Engineering principles, specifically foc
 
 
 🧠 Core Functionalities
+
   -Automated Skill-Gap Analysis: Pinpoints specific technologies, frameworks, or experiences missing from the candidate's profile based on target job requirements.
 
   -Semantic Match Rating: Generates a dynamic 0–100% compatibility score using LLM-based evaluation logic.
